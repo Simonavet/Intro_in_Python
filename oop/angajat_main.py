@@ -1,0 +1,10 @@
+from oop.angajat import Angajat
+pers1 = Angajat('Mihai R', 'programator', 30)
+pers1.angajare()
+pers1.stabilireSalar(2)
+pers2 = Angajat('Diana F', 'programator', 27)
+pers2.angajare()
+pers2.stabilireSalar(5)
+pers3 = Angajat('Cristina K', 'manager', 35)
+pers3.angajare()
+pers3.stabilireSalar(12)

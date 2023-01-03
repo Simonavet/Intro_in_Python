@@ -1,0 +1,1 @@
+print('L1v3 y0ur l1f3')
